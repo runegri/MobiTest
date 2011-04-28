@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C" ModuleId="MobiTest.TestRunner.WP7" />
+  <Module PersistentId="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB" ModuleId="MobiTest.WP7" />
+  <Module PersistentId="329531BD-6467-4653-8718-6DE47641A9DD" ModuleId="MobiTest.NUnit.WP7" />
+</Modules>

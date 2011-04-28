@@ -1,0 +1,15 @@
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\ApplicationIcon.png
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\Background.png
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.TestRunner.WP7.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.TestRunner.WP7.pdb
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\AppManifest.xaml
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.TestRunner.WP7.xap
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\ResolveAssemblyReference.cache
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\App.g.i.cs
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MainPage.g.i.cs
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MobiTest.TestRunner.WP7.g.resources
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MobiTest.TestRunner.WP7.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MobiTest.TestRunner.WP7.pdb
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,122 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResult.cs" caret="395" fromTop="19" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResultDescription.cs" caret="1975" fromTop="57" />
+      <File id="329531BD-6467-4653-8718-6DE47641A9DD/f:TheoryAttribute.cs" caret="0" fromTop="0" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:Test.cs" caret="0" fromTop="0" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestListBuilder.cs" caret="207" fromTop="4" />
+      <File id="329531BD-6467-4653-8718-6DE47641A9DD/f:Iz.cs" caret="509" fromTop="13" />
+      <File id="329531BD-6467-4653-8718-6DE47641A9DD/f:Assert.cs" caret="0" fromTop="0" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:FilteredObservableCollection.cs" caret="2820" fromTop="98" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:MainPage.xaml" caret="1585" fromTop="21" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:ViewModelBase.cs" caret="24" fromTop="0" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestViewModel.cs" caret="545" fromTop="22" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestsViewModel.cs" caret="1032" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResult.cs" caret="395" fromTop="19" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResultDescription.cs" caret="446" fromTop="17" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResultDescription.cs" caret="514" fromTop="0" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResultDescription.cs" caret="1743" fromTop="40" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResultDescription.cs" caret="771" fromTop="27" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResultDescription.cs" caret="1023" fromTop="33" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResultDescription.cs" caret="1256" fromTop="39" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestResultDescription.cs" caret="1508" fromTop="45" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:Test.cs" caret="650" fromTop="3" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:Test.cs" caret="1811" fromTop="25" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:Test.cs" caret="2316" fromTop="40" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:Test.cs" caret="2618" fromTop="46" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:Test.cs" caret="2805" fromTop="35" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:Test.cs" caret="3174" fromTop="25" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestListBuilder.cs" caret="143" fromTop="5" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestListBuilder.cs" caret="390" fromTop="18" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestListBuilder.cs" caret="1483" fromTop="31" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestListBuilder.cs" caret="68" fromTop="2" />
+      <File id="084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB/f:TestListBuilder.cs" caret="207" fromTop="4" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:FilteredObservableCollection.cs" caret="2820" fromTop="98" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:MainPage.xaml" caret="1593" fromTop="21" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestsViewModel.cs" caret="1172" fromTop="12" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:ViewModelBase.cs" caret="0" fromTop="0" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestViewModel.cs" caret="545" fromTop="22" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestsViewModel.cs" caret="959" fromTop="22" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestsViewModel.cs" caret="892" fromTop="20" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestsViewModel.cs" caret="1312" fromTop="34" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestsViewModel.cs" caret="1904" fromTop="41" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestsViewModel.cs" caret="1904" fromTop="39" />
+      <File id="6D78F53F-452C-4B28-AEB0-02F8E2BB2E4C/f:TestsViewModel.cs" caret="1938" fromTop="49" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="TestResult`0" priority="2" />
+      <Item value="public" priority="7" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="Test`0" priority="3" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="4" />
+      <Item value="return" priority="1" />
+      <Item value="testMethods" priority="0" />
+      <Item value="INotifyPropertyChanged" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="pc" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="PropertyChangedEventArgs" priority="0" />
+      <Item value="propertyName" priority="0" />
+      <Item value="ObservableCollection" priority="0" />
+      <Item value="RaisePropertyChanged`0" priority="2" />
+      <Item value="TestsViewModel`0" priority="0" />
+      <Item value="AllTests" priority="2" />
+      <Item value="ObservableCollection&lt;Test&gt;" priority="0" />
+      <Item value="FilteredObservableCollection" priority="1" />
+      <Item value="ViewModelBase`0" priority="0" />
+      <Item value="TestViewModel`0" priority="2" />
+      <Item value="_test" priority="0" />
+      <Item value="FailingTests" priority="0" />
+      <Item value="FilteredObservableCollection&lt;TestViewModel&gt;" priority="1" />
+      <Item value="t" priority="1" />
+      <Item value="TestResultDescription`0" priority="0" />
+      <Item value="PassingTests" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobiTest.TestRunner.TestViewModel">
+      <Item value="Test" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobiTest.Test">
+      <Item value="Result" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MobiTest.TestResultDescription">
+      <Item value="Failed`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobiTest.TestResultDescription">
+      <Item value="Result" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MobiTest.TestResult">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MobiTest.TestResult">
+      <Item value="Passed" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

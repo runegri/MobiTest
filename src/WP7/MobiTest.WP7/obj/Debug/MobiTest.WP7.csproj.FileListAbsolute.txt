@@ -1,0 +1,7 @@
+D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\obj\Debug\ResolveAssemblyReference.cache
+D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\Bin\Debug\MobiTest.WP7.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\Bin\Debug\MobiTest.WP7.pdb
+D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\Bin\Debug\MobiTest.NUnit.WP7.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\Bin\Debug\MobiTest.NUnit.WP7.pdb
+D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\obj\Debug\MobiTest.WP7.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\obj\Debug\MobiTest.WP7.pdb
