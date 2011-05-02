@@ -1,15 +1,9 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
-using System.Net;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Documents;
-using System.Windows.Ink;
+using System.Linq;
+using System.Threading;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Animation;
-using System.Windows.Shapes;
 
 namespace MobiTest.TestRunner
 {
@@ -20,8 +14,18 @@ namespace MobiTest.TestRunner
         public TestsViewModel()
         {
             AllTests = new ObservableCollection<TestViewModel>();
-            FailingTests = new FilteredObservableCollection<TestViewModel>(AllTests, t => t.Test.Result.Result == TestResult.Failed);
-            PassingTests = new FilteredObservableCollection<TestViewModel>(AllTests, t => t.Test.Result.Result == TestResult.Passed);
+            FailingTests = new FilteredObservableCollection<TestViewModel>(AllTests, IsFailingTest);
+            PassingTests = new FilteredObservableCollection<TestViewModel>(AllTests, IsPassingTest);
+        }
+
+        private static bool IsFailingTest(TestViewModel testViewModel)
+        {
+            return testViewModel.Result == TestResult.Failed;
+        }
+
+        private static bool IsPassingTest(TestViewModel testViewModel)
+        {
+            return testViewModel.Result == TestResult.Passed;
         }
 
         private ObservableCollection<TestViewModel> _allTests;
@@ -54,6 +58,89 @@ namespace MobiTest.TestRunner
             {
                 _passingTests = value;
                 RaisePropertyChanged("PassingTests");
+            }
+        }
+
+        public bool IsDataLoaded
+        {
+            get { return _allTests.Any(); }
+        }
+
+        public void LoadData()
+        {
+            var testListBuilder = new TestListBuilder();
+            var allTests = testListBuilder.BuildTestsList();
+            foreach (var test in allTests)
+            {
+                AllTests.Add(new TestViewModel(test));
+            }
+        }
+
+        public ICommand RunAllTests
+        {
+            get { return new RunAllTestsCommand(this); }
+        }
+
+        private class RunAllTestsCommand : ICommand, IDisposable
+        {
+            private readonly TestsViewModel _testsViewModel;
+            private bool _testsRunning;
+
+            public RunAllTestsCommand(TestsViewModel testsViewModel)
+            {
+                _testsViewModel = testsViewModel;
+                _testsViewModel.PropertyChanged += PropertyChanged;
+            }
+
+            void PropertyChanged(object sender, PropertyChangedEventArgs e)
+            {
+                RaiseCanExecuteChanged();
+            }
+
+            private void RaiseCanExecuteChanged()
+            {
+                var canExecuteChanged = CanExecuteChanged;
+                if (canExecuteChanged != null)
+                {
+                    canExecuteChanged(this, new EventArgs());
+                }
+
+            }
+
+            public bool CanExecute(object parameter)
+            {
+                return !_testsRunning && _testsViewModel.AllTests.Any();
+            }
+
+            public void Execute(object parameter)
+            {
+                ThreadPool.QueueUserWorkItem(InvokeAllTests);
+            }
+
+            private void InvokeAllTests(object dummy)
+            {
+                try
+                {
+                    _testsRunning = true;
+                    RaiseCanExecuteChanged();
+                    var allTests = _testsViewModel.AllTests.ToList();
+                    foreach (var testViewModel in allTests)
+                    {
+                        testViewModel.RunTest();
+                    }
+                }
+                finally
+                {
+                    _testsRunning = false;
+                    RaiseCanExecuteChanged();
+                }
+            }
+
+            public event EventHandler CanExecuteChanged;
+
+            public void Dispose()
+            {
+                _testsViewModel.PropertyChanged -= PropertyChanged;
             }
         }
     }

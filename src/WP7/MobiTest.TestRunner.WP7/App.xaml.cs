@@ -17,21 +17,21 @@ namespace MobiTest.TestRunner.WP7
 {
     public partial class App : Application
     {
-        private static MainViewModel viewModel = null;
+        private static TestsViewModel _viewModel = null;
 
         /// <summary>
         /// A static ViewModel used by the views to bind against.
         /// </summary>
         /// <returns>The MainViewModel object.</returns>
-        public static MainViewModel ViewModel
+        public static TestsViewModel ViewModel
         {
             get
             {
                 // Delay creation of the view model until necessary
-                if (viewModel == null)
-                    viewModel = new MainViewModel();
+                if (_viewModel == null)
+                    _viewModel = new TestsViewModel();
 
-                return viewModel;
+                return _viewModel;
             }
         }
 

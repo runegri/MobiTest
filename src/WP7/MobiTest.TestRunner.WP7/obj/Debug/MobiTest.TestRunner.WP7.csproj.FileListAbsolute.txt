@@ -13,3 +13,9 @@ D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MobiTest.TestRunner.W
 D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MobiTest.TestRunner.WP7.dll
 D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MobiTest.TestRunner.WP7.pdb
 D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\XapCacheFile.xml
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.WP7.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.NUnit.WP7.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.WP7.pdb
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.NUnit.WP7.pdb
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\NUnitWP7Tests.dll
+D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\NUnitWP7Tests.pdb

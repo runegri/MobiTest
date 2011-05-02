@@ -16,6 +16,8 @@ namespace MobiTest
     public class Test
     {
 
+        public event EventHandler TestInvoked;
+
         public Action SetupMethod { get; private set; }
         public Action TestMethod { get; private set; }
         public Action TearDownMethod { get; private set; }
@@ -48,7 +50,6 @@ namespace MobiTest
 
         public void Invoke()
         {
-
             if (Ignore)
             {
                 Result = new TestResultDescription(TestName, TestResult.Ignored, "");
@@ -79,6 +80,12 @@ namespace MobiTest
                         Result = new TestResultDescription(TestName, TestResult.Failed, exception.Message);
                     }
                 }
+            }
+
+            var testInvoked = TestInvoked;
+            if (testInvoked != null)
+            {
+                testInvoked(this, new EventArgs());
             }
         }
 

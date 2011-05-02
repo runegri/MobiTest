@@ -2,5 +2,8 @@
   <Deployment.Parts>
     <AssemblyPart x:Name="MobiTest.TestRunner.WP7" Source="MobiTest.TestRunner.WP7.dll" />
     <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="MobiTest.WP7" Source="MobiTest.WP7.dll" />
+    <AssemblyPart x:Name="NUnitWP7Tests" Source="NUnitWP7Tests.dll" />
+    <AssemblyPart x:Name="MobiTest.NUnit.WP7" Source="MobiTest.NUnit.WP7.dll" />
   </Deployment.Parts>
 </Deployment>

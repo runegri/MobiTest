@@ -32,6 +32,8 @@ namespace MobiTest.TestRunner.WP7
             {
                 App.ViewModel.LoadData();
             }
+
+            App.ViewModel.RunAllTests.Execute(null);
         }
     }
 }

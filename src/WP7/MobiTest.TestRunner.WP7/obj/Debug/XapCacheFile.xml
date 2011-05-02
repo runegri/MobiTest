@@ -1,9 +1,12 @@
-﻿<xapCache source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.TestRunner.WP7.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="28.04.2011 23:16:22">
+﻿<xapCache source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\MobiTest.TestRunner.WP7.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="02.05.2011 22:22:42">
   <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="28.04.2011 22:58:23" />
-  <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MobiTest.TestRunner.WP7.dll" archivePath="MobiTest.TestRunner.WP7.dll" lastWriteTime="28.04.2011 23:16:22" />
+  <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\obj\Debug\MobiTest.TestRunner.WP7.dll" archivePath="MobiTest.TestRunner.WP7.dll" lastWriteTime="02.05.2011 22:22:41" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="24.01.2011 23:39:08" />
+  <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\Bin\Debug\MobiTest.WP7.dll" archivePath="MobiTest.WP7.dll" lastWriteTime="02.05.2011 22:20:23" />
+  <file source="D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\Bin\Debug\NUnitWP7Tests.dll" archivePath="NUnitWP7Tests.dll" lastWriteTime="02.05.2011 22:16:43" />
+  <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.WP7\Bin\Debug\MobiTest.NUnit.WP7.dll" archivePath="MobiTest.NUnit.WP7.dll" lastWriteTime="28.04.2011 23:19:47" />
   <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="28.04.2011 22:58:23" />
   <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Background.png" archivePath="Background.png" lastWriteTime="28.04.2011 22:58:23" />
   <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="28.04.2011 22:58:23" />
-  <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="28.04.2011 22:58:25" />
+  <file source="D:\@SRC\MobiTest\src\WP7\MobiTest.TestRunner.WP7\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="02.05.2011 22:16:58" />
 </xapCache>

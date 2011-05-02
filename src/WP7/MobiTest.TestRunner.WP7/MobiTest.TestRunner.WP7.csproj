@@ -104,6 +104,10 @@
       <Project>{084B5ABE-ACEE-42A6-A2A3-ABFAF170D4DB}</Project>
       <Name>MobiTest.WP7</Name>
     </ProjectReference>
+    <ProjectReference Include="..\NUnitWP7Tests\NUnitWP7Tests.csproj">
+      <Project>{55568EAF-CC36-4CC5-BA6E-9F793BD381D3}</Project>
+      <Name>NUnitWP7Tests</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />

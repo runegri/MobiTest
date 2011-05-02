@@ -15,6 +15,7 @@ namespace MobiTest
     {
         Passed,
         Failed,
-        Ignored
+        Ignored,
+        None
     }
 }

@@ -1,0 +1,16 @@
+D:\@SRC\Mobilprosjektet\TinyTestWP7\TinyTestWP7\NUnitWP7Tests\Bin\Debug\NUnitWP7Tests.dll
+D:\@SRC\Mobilprosjektet\TinyTestWP7\TinyTestWP7\NUnitWP7Tests\Bin\Debug\NUnitWP7Tests.pdb
+D:\@SRC\Mobilprosjektet\TinyTestWP7\TinyTestWP7\NUnitWP7Tests\Bin\Debug\NUnitWP7.dll
+D:\@SRC\Mobilprosjektet\TinyTestWP7\TinyTestWP7\NUnitWP7Tests\Bin\Debug\NUnitWP7.pdb
+D:\@SRC\Mobilprosjektet\TinyTestWP7\TinyTestWP7\NUnitWP7Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\@SRC\Mobilprosjektet\TinyTestWP7\TinyTestWP7\NUnitWP7Tests\obj\Debug\NUnitWP7Tests.g.resources
+D:\@SRC\Mobilprosjektet\TinyTestWP7\TinyTestWP7\NUnitWP7Tests\obj\Debug\NUnitWP7Tests.dll
+D:\@SRC\Mobilprosjektet\TinyTestWP7\TinyTestWP7\NUnitWP7Tests\obj\Debug\NUnitWP7Tests.pdb
+D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\Bin\Debug\NUnitWP7Tests.dll
+D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\Bin\Debug\NUnitWP7Tests.pdb
+D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\Bin\Debug\MobiTest.NUnit.WP7.dll
+D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\Bin\Debug\MobiTest.NUnit.WP7.pdb
+D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\obj\Debug\NUnitWP7Tests.g.resources
+D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\obj\Debug\NUnitWP7Tests.dll
+D:\@SRC\MobiTest\src\WP7\NUnitWP7Tests\obj\Debug\NUnitWP7Tests.pdb

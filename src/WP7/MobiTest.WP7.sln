@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobiTest.WP7", "MobiTest.WP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobiTest.NUnit.WP7", "MobiTest.NUnit.WP7\MobiTest.NUnit.WP7.csproj", "{329531BD-6467-4653-8718-6DE47641A9DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitWP7Tests", "NUnitWP7Tests\NUnitWP7Tests.csproj", "{55568EAF-CC36-4CC5-BA6E-9F793BD381D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{329531BD-6467-4653-8718-6DE47641A9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{329531BD-6467-4653-8718-6DE47641A9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{329531BD-6467-4653-8718-6DE47641A9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55568EAF-CC36-4CC5-BA6E-9F793BD381D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55568EAF-CC36-4CC5-BA6E-9F793BD381D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55568EAF-CC36-4CC5-BA6E-9F793BD381D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55568EAF-CC36-4CC5-BA6E-9F793BD381D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
